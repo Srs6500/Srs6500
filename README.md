@@ -17,7 +17,7 @@ Processes: Agile | Full-Stack Development | SaaS Architecture
 
 
 🎓 Education 
-New York Institute of Technology - <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/684e5b96-61c3-457c-862e-ca8bd412622e" />
+New York Institute of Technology - <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/684e5b96-61c3-457c-862e-ca8bd412622e" />
 
 Bachelor of Science in Computer Science 
 
